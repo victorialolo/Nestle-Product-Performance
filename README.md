@@ -51,7 +51,7 @@ I was able to add to my skill by learning and using the **DAX Query Function**. 
 
 ## Data Analysis and Visuals
 
-![](Nestle_Picture.PNG)
+![](Nestle _Picture.PNG)
 
 1. From our dasboard, it was observed the revenue over the past three years amounted to $31 million. 2019 emerged as the most peak year, contributing the highest total revenue of $12.6      million, Following closely, 2020 secured the second-highest position with $9.4 million in total revenue and In 2018, the revenue reached $8.7 million.
    
