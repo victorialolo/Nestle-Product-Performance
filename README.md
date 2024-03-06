@@ -41,9 +41,9 @@ The best type of model in power Bi is the star schema, The calendar table was cr
 ## Skills Demonstrated
 The following Power BI features were incorporated.
 
-DAX Query Function,
-Modelling
-Filters
+- DAX Query Function
+- Modelling
+- Filters
 
 I was able to add to my skill by learning and using the **DAX Query Function**. This can be seen in the calculated **KPIS**.
 
@@ -53,17 +53,9 @@ I was able to add to my skill by learning and using the **DAX Query Function**. 
 
 ![](Nestle_Picture.PNG)
 
-1. From our dasboard, it was observed that the total sales generated for the 4 years of business is $11.8bn. The sales made in 2017 = 2.7bn, 2018 = 3.5bn, 
-2019 = 2.9bn, 2022 = 2.7bn.    
-
-3. The company has a total of 240 products.
-
-4. A total of 29 distributors, 13 sales representatives.
-
-
-![](Phar4.png)
-
-Sales is highest in the country Germany with almost $11.1bn.
+1. From our dasboard, it was observed the revenue over the past three years amounted to $31 million. 2019 emerged as the most peak year, contributing the highest total revenue of $12.6      million, Following closely, 2020 secured the second-highest position with $9.4 million in total revenue and In 2018, the revenue reached $8.7 million.
+   
+2. Nestle had a total number of 9 products and 8 different Locations.
 
 You can interact with the dashboard  
 [here](https://app.powerbi.com/view?r=eyJrIjoiODRlMGZhM2UtM2MzYi00ZjYxLTgwNGMtZDMxYmZmYjU4NzdkIiwidCI6IjUwODUxMjk2LTliZDEtNGM1Yi05MDllLWY2M2U0OWVmZWEyNSJ9)
