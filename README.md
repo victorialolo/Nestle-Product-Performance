@@ -51,7 +51,7 @@ I was able to add to my skill by learning and using the **DAX Query Function**. 
 
 ## Data Analysis and Visuals
 
-![](Dashboard.png)
+![](Nestle_Picture.PNG)
 
 1. From our dasboard, it was observed that the total sales generated for the 4 years of business is $11.8bn. The sales made in 2017 = 2.7bn, 2018 = 3.5bn, 
 2019 = 2.9bn, 2022 = 2.7bn.    
@@ -64,6 +64,13 @@ I was able to add to my skill by learning and using the **DAX Query Function**. 
 ![](Phar4.png)
 
 Sales is highest in the country Germany with almost $11.1bn.
+
+You can interact with the dashboard  
+[here](https://app.powerbi.com/view?r=eyJrIjoiODRlMGZhM2UtM2MzYi00ZjYxLTgwNGMtZDMxYmZmYjU4NzdkIiwidCI6IjUwODUxMjk2LTliZDEtNGM1Yi05MDllLWY2M2U0OWVmZWEyNSJ9)
+
+## Analysis:
+
+Here, we could discover the following insights.
 
 ## Conclusions & Recommendations
 
