@@ -1,7 +1,8 @@
 # Nestle-Product-Performance Analysis
 
-![]()
+![](Nestle_Picture2.png)
 
+## Objectives
 - Evaluate Current Product Performance: Understand how existing products are performing in the market.
 - Inform Expansion Plans: Use insights to guide decisions on introducing new product lines.
 - Identify Strong and Weak Performers: Identify products with high market demand and profitability as well as those underperforming.
@@ -26,7 +27,7 @@ Filters
 
 I was able to add to my skill by learning and using the **DAX Query Function**. This can be seen in the calculated **KPIS**.
 
-![](Phar2.png)
+![](Nestle_KPIspng)
 
 ## Data Transformation/Cleaning:
 
