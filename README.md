@@ -34,7 +34,9 @@ Data was efficiently cleaned and transformed with the Power Query Editor of Powe
 - ADDING NEW MEASURES to calculate for the KPIS.
 
 ## Data Modelling
-The best type of model in power Bi is the star schema, The data has only one table and so there was no data modelling done for the analysis.
+The best type of model in power Bi is the star schema, The calendar table was created and and relationship was created with the data. This was done help in the analysis.
+
+![](Nestle_Model_Picture.PNG)
 
 ## Skills Demonstrated
 The following Power BI features were incorporated.
