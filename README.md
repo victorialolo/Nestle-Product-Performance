@@ -10,13 +10,31 @@
 ## Introduction
 Nestlé is the largest food company in the world, marketing over 8,500 brands and 30,000 products. Nestlé is considering expanding its business by introducing new product lines. However, before doing so, there is a need to assess the performance of the current products to make informed strategic decisions.
 
-## Problem Statement
+## Data Sources
+The Primary dataset used for this project is the data, containing detailed information about the sales made and the Products of the company
+
+## Problem statement/ Requirement.
+
+Nestle is looking to create some Power BI Reports to help the Growth and Strategy Department to develop a product comparison dashboard to help the company take a decision on its expansion as a company. For a start, a couple of numbers have been identified to be reported in their data as reports.
 
 - What is the trend of total sales per product in the last 3 years?
 - What is the monthly sales trend?
 - Compare the different products based on the maximum and min revenue generated?
 - Which location had the highest and lowest sales?
 - Generate insights from the sales medium to help the Head of Growth take a decision?
+
+## Data Transformation / Cleaning:
+
+Data was efficiently cleaned and transformed with the Power Query Editor of Power BI. After checking all the columns and rows, they were found to be valid and devoid of empty cells and errors. The data contains 18117 rows and 6 columns.
+
+- Making first row as headers on the data.
+
+- Datatype then changed from 'WHOLE NUMBERS' to 'DECIMALS'.
+
+- ADDING NEW MEASURES to calculate for the KPIS.
+
+## Data Modelling
+The best type of model in power Bi is the star schema, The data has only one table and so there was no data modelling done for the analysis.
 
 ## Skills Demonstrated
 The following Power BI features were incorporated.
@@ -27,21 +45,7 @@ Filters
 
 I was able to add to my skill by learning and using the **DAX Query Function**. This can be seen in the calculated **KPIS**.
 
-![](Nestle_KPIspng)
-
-## Data Transformation/Cleaning:
-
-Data was efficiently cleaned and transformed with the Power Query Editor of Power BI. After checking all the columns and rows, they were found to be valid and devoid of empty cells and errors. The data contains 254083 rows and 18 columns.
-
-- Making first row as headers on the data.
-
-- Datatype then changed from 'DECIMAL' to 'WHOLE NUMBERS'.
-
-- ADDING NEW MEASURES to calculate for the KPIS.
-
-## Data Modelling
-
-The data has only one table and so there was no data modelling done for the analysis.
+![](Nestle_KPIs.PNG)
 
 ## Data Analysis and Visuals
 
